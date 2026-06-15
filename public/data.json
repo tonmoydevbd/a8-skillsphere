@@ -6,9 +6,22 @@
     "duration": "20 hours",
     "rating": 4.8,
     "level": "Beginner",
-    "description": "Learn full-stack web development from scratch.",
+    "description": "Become a full-stack web developer from scratch. This comprehensive, project-based bootcamp takes you from absolute beginner to industry-ready engineer. Learn front-end design, back-end logic, database management, and modern cloud deployment by building real-world applications.",
     "image": "https://i.postimg.cc/ZqsKTd89/Complete-Web-Development-Bootcamp.png",
-    "category": "Development"
+    "category": "Development",
+    "curriculum": [
+      "Introduction to HTML5 and Semantic Web Structuring",
+      "Advanced Styling and Responsive Layouts with CSS3, Flexbox, and Grid",
+      "JavaScript Programming Fundamentals: Variables, Data Types, and Logic",
+      "DOM Manipulation, Event Handling, and Asynchronous JavaScript",
+      "Modern Front-End Development with React, Components, and Hooks",
+      "State Management and Working with External APIs",
+      "Server-Side Development with Node.js and Express Framework",
+      "Building and Testing Secure RESTful APIs",
+      "Database Management and Data Modeling with MongoDB and Mongoose",
+      "User Authentication and Authorization using JSON Web Tokens (JWT)",
+      "Git Version Control, GitHub Collaboration, and Production Deployment"
+    ]
   },
   {
     "id": 2,
@@ -17,9 +30,22 @@
     "duration": "35 hours",
     "rating": 4.9,
     "level": "Advanced",
-    "description": "Master complex algorithms and big data visualization techniques.",
+    "description": "Master advanced predictive modeling, deep learning architectures, and production-scale machine learning systems. Designed for data professionals, this course covers complex statistical analysis, neural networks, natural language processing, and MLOps pipelines to solve enterprise-level data challenges.",
     "image": "https://i.postimg.cc/LsxFtFhd/Advanced-Data-Science-Machine-Learning.webp",
-    "category": "Data Science"
+    "category": "Data Science",
+    "curriculum": [
+      "Advanced Statistical Inference, Hypothesis Testing, and Experimental Design",
+      "Feature Engineering, Dimensionality Reduction with PCA, and Data Preprocessing Pipelines",
+      "Ensemble Methods: Implementation of Random Forests, Gradient Boosting, and XGBoost",
+      "Supervised and Unsupervised Learning Optimizations for Massive Datasets",
+      "Deep Learning Fundamentals: Building Neural Networks with TensorFlow and PyTorch",
+      "Convolutional Neural Networks (CNNs) for Advanced Computer Vision Tasks",
+      "Sequence Models and Natural Language Processing (NLP) with Transformers",
+      "Model Evaluation Metrics, Cross-Validation Strategies, and Hyperparameter Tuning",
+      "Big Data Processing and Distributed Computing using Apache Spark and PySpark",
+      "MLOps: Model Deployment, Containerization with Docker, and Cloud API Integration",
+      "Designing Scalable, Automated Machine Learning Pipelines for Production Systems"
+    ]
   },
   {
     "id": 3,
@@ -28,9 +54,22 @@
     "duration": "15 hours",
     "rating": 4.6,
     "level": "Intermediate",
-    "description": "Strategic approaches to SEO, SEM, and social media advertising.",
+    "description": "Accelerate your brand's growth with our comprehensive Digital Marketing Masterclass. Designed for entrepreneurs, marketers, and creators, this course delivers actionable strategies across SEO, paid advertising, content creation, and data analytics to maximize online visibility and customer conversion.",
     "image": "https://i.postimg.cc/HLvspyw8/Digital-Marketing-Masterclass.jpg",
-    "category": "Marketing"
+    "category": "Marketing",
+    "curriculum": [
+      "Foundations of Digital Marketing: Audience Personas and Customer Journeys",
+      "Search Engine Optimization (SEO): Keyword Research, On-Page, and Technical SEO",
+      "Content Marketing Strategy: Storytelling, Copywriting, and Editorial Calendars",
+      "Social Media Marketing: Organic Growth and Community Building Across Platforms",
+      "Paid Search Advertising: Launching and Optimizing Google Ads Campaigns",
+      "Social Media Advertising: Meta (Facebook/Instagram) Ads Manager Mastery",
+      "Email Marketing Automation: List Building, Segmentation, and Drip Campaigns",
+      "Web Analytics and Conversion Rate Optimization (CRO) using Google Analytics 4",
+      "Influencer Marketing, Brand Partnerships, and Affiliate Program Setup",
+      "Marketing Budget Allocation, ROI Tracking, and Strategic KPI Reporting",
+      "Launching a Full-Scale Omnichannel Digital Marketing Campaign Blueprint"
+    ]
   },
   {
     "id": 4,
@@ -39,9 +78,22 @@
     "duration": "12 hours",
     "rating": 4.7,
     "level": "Beginner",
-    "description": "Core principles of design using industry-standard software.",
+    "description": "Unlock the visual language of professional design with our Graphic Design Theory and Practice course. Perfect for aspiring designers, this course bridges foundational design rules with hands-on technical skills, mastering typography, layout, color psychology, and modern software tools to create high-impact visual communication.",
     "image": "https://i.postimg.cc/W4Yb2kGM/Graphic-Design-Theoryand-Practice.webp",
-    "category": "Design"
+    "category": "Design",
+    "curriculum": [
+      "Core Principles of Design: Balance, Contrast, Proximity, and Alignment",
+      "Color Theory and Psychology: Choosing Palettes for Brand Impact",
+      "Typography Essentials: Font Selection, Hierarchy, and Kerning Rules",
+      "Layout and Composition: Utilizing Grid Systems and Visual Balance",
+      "Vector Artwork Creation and Icon Design in Adobe Illustrator",
+      "Professional Image Editing and Composite Manipulation in Adobe Photoshop",
+      "Multi-Page Layout Design and Desktop Publishing in Adobe InDesign",
+      "Branding and Identity Systems: Logo Design and Brand Style Guides",
+      "Digital vs. Print Design: Preparing Assets for Web and High-Res Production",
+      "Design Thinking, Creative Brief Analysis, and Client Presentation Strategies",
+      "Building and Organizing a Professional Design Portfolio that Lands Clients"
+    ]
   },
   {
     "id": 5,
@@ -50,9 +102,22 @@
     "duration": "25 hours",
     "rating": 4.5,
     "level": "Intermediate",
-    "description": "Build high-performance native apps for iOS and Android.",
+    "description": "Build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This project-based course guides you through Dart programming, declarative UI design, state management, and native device integration to launch high-performance apps on the Apple App Store and Google Play Store.",
     "image": "https://i.postimg.cc/cJk4snR7/Mobile-App-Developmentwith-Flutter.jpg",
-    "category": "Development"
+    "category": "Development",
+    "curriculum": [
+      "Introduction to cross-platform development frameworks and Flutter architecture",
+      "Dart programming essentials: variables, control flow, functions, and OOP principles",
+      "Building user interfaces with Flutter widgets: layout, text, images, and styling",
+      "Designing responsive and adaptive layouts for multi-screen compatibility",
+      "User input handling, form validation, and custom interactive components",
+      "Asynchronous programming in Dart: Futures, Streams, and handling network requests",
+      "Local data persistence using SQLite, Shared Preferences, and secure storage",
+      "State management solutions: implementation of Provider, Riverpod, or BLoC",
+      "Integrating native device features: camera access, geolocation, and push notifications",
+      "App testing strategies: writing unit, widget, and integration tests",
+      "Preparing, signing, and deploying production builds to iOS and Android app stores"
+    ]
   },
   {
     "id": 6,
@@ -61,9 +126,22 @@
     "duration": "18 hours",
     "rating": 4.7,
     "level": "Beginner",
-    "description": "Protect systems and networks from digital attacks.",
+    "description": "Protect digital assets and secure critical infrastructure against modern cyber threats. This foundational course introduces you to information security frameworks, network defense strategies, risk management, and ethical hacking basics, preparing you for a rewarding career in cybersecurity or professional certifications like Security+.",
     "image": "https://i.postimg.cc/8CzzQH6m/Cybersecurity-Fundamentals.jpg",
-    "category": "IT & Software"
+    "category": "IT & Software",
+    "curriculum": [
+      "Introduction to Cybersecurity: The CIA Triad, Threat Actor Profiles, and Security Controls",
+      "Network Security Baselines: OSI Model Protocols, Firewalls, and VPN Architectures",
+      "Identity and Access Management (IAM): Authentication Factors, Authorization, and Least Privilege",
+      "Cryptography Essentials: Symmetric vs. Asymmetric Encryption, Hashing, and PKI Infrastructure",
+      "Identifying Common Vulnerabilities: Malware, Social Engineering, and Phishing Tactics",
+      "Web Application Security: Mitigating OWASP Top 10 Risks and Injection Attacks",
+      "Operating System Hardening: Securing Windows, Linux, and Cloud Environments",
+      "Incident Response Frameworks, Business Continuity, and Disaster Recovery Planning",
+      "Risk Assessment Methodologies, Compliance Frameworks (NIST, ISO 27001), and Governance",
+      "Ethical Hacking Foundations: Reconnaissance, Port Scanning, and Vulnerability Assessment Tools",
+      "Security Operations Center (SOC) Workflows: Log Analysis, SIEM Monitoring, and Threat Hunting"
+    ]
   },
   {
     "id": 7,
@@ -72,9 +150,22 @@
     "duration": "22 hours",
     "rating": 4.8,
     "level": "Intermediate",
-    "description": "Deep dive into user research and interactive prototyping.",
+    "description": "Transform user insights into high-converting digital products with our UX/UI Design Strategy course. Built for designers, product managers, and entrepreneurs, this course focuses on user research methodologies, interactive prototyping, cognitive psychology, and business-driven design workflows to build interfaces that look beautiful and perform seamlessly.",
     "image": "https://i.postimg.cc/cHK16LTq/UX-UIDesign-Strategy.jpg",
-    "category": "Design"
+    "category": "Design",
+    "curriculum": [
+      "Introduction to User Experience (UX) Strategy and the Double Diamond Design Process",
+      "User Research Methods: Conducting Interviews, Surveys, and Competitive Analysis",
+      "Defining User Personas, Empathy Mapping, and Scoping Customer Journey Maps",
+      "Information Architecture: Content Auditing, Card Sorting, and Site Mapping",
+      "Interaction Design Fundamentals: User Flows, Behavioral Psychology, and Usability Rules",
+      "Low-Fidelity Wireframing and Rapid Prototyping Concepts using Figma",
+      "Visual Hierarchy and User Interface (UI) Styling: Grids, Columns, and Typography Scaling",
+      "Building and Scaling Component-Driven Design Systems and UI Kits",
+      "Usability Testing: Setting up Moderated Tasks, A/B Testing, and Metric Tracking",
+      "Handoff Frameworks: Structuring Design Documentation and Inspect Panels for Developers",
+      "Formulating a Complete Product Strategy Case Study for Your Design Portfolio"
+    ]
   },
   {
     "id": 8,
@@ -83,9 +174,22 @@
     "duration": "30 hours",
     "rating": 4.9,
     "level": "Advanced",
-    "description": "Using Python for algorithmic trading and risk management.",
+    "description": "Harness the power of Python to analyze financial markets, build predictive trading models, and manage investment portfolios. This highly practical course covers financial data manipulation, algorithmic trading strategies, risk assessment metrics, and quantitative finance libraries to give you a distinct edge in data-driven finance.",
     "image": "https://i.postimg.cc/KYjxs86k/Pythonfor-Financial-Analysis.png",
-    "category": "Finance"
+    "category": "Finance",
+    "curriculum": [
+      "Introduction to Quantitative Finance and Setting Up Your Python Analytics Environment",
+      "Data Manipulation for Finance: Mastering NumPy Arrays and Pandas DataFrames",
+      "Time Series Analysis: Resampling, Moving Averages, and Handling Financial Market Data",
+      "Data Visualization for Finance: Plotting Candlesticks and Trends with Matplotlib and Plotly",
+      "Working with Financial APIs: Fetching Live and Historical Stock, Crypto, and FX Data",
+      "Portfolio Theory and Optimization: Computing Returns, Volatility, and the Sharpe Ratio",
+      "Algorithmic Trading Systems: Designing, Backtesting, and Evaluating Trading Strategies",
+      "Statistical Financial Analysis: Linear Regressions, Correlation Matrices, and Beta Calculations",
+      "Risk Management Models: Implementing Value at Risk (VaR) and Expected Shortfall Calculations",
+      "Predictive Modeling for Asset Pricing: Applying Machine Learning using Scikit-Learn",
+      "Automating Financial Reporting: Generating Automated PDF Summaries and Dynamic Excel Sheets"
+    ]
   },
   {
     "id": 9,
@@ -94,9 +198,22 @@
     "duration": "10 hours",
     "rating": 4.6,
     "level": "Beginner",
-    "description": "Exploring the social and ethical impacts of AI systems.",
+    "description": "Navigate the complex moral, legal, and social implications of rapid AI development. This critical course explores algorithmic bias, data privacy rights, transparency, and governance frameworks, providing developers, policymakers, and business leaders with the tools needed to build, deploy, and regulate trustworthy, responsible AI systems.",
     "image": "https://i.postimg.cc/SKxxFrMC/Artificial-Intelligence-Ethics.jpg",
-    "category": "Technology"
+    "category": "Technology",
+    "curriculum": [
+      "Introduction to AI Ethics: Moral Frameworks, Accountability, and the Alignment Problem",
+      "Algorithmic Bias and Fairness: Identifying and Mitigating Discrimination in Training Data",
+      "Data Privacy, Consent, and Surveillance Capitalism in the Age of Mass AI Collection",
+      "The Black Box Problem: Explainable AI (XAI) and Technical Transparency Frameworks",
+      "Intellectual Property, Copyright Law, and Fair Use in Generative AI Models",
+      "Social and Economic Impacts: Automation, Job Displacement, and the Digital Divide",
+      "Deepfakes, Disinformation, and the Erosion of Digital Trust and Authenticity",
+      "Global AI Governance: Analyzing the EU AI Act, White House Directives, and International Standards",
+      "Corporate Responsibility: Designing and Implementing Ethical AI Codes of Conduct",
+      "Risk Assessment Frameworks: Conducting Algorithmic Impact Assessments (AIAs)",
+      "Developing Future-Proof Blueprints for Human-Centric and Socially Accountable AI Systems"
+    ]
   },
   {
     "id": 10,
@@ -105,8 +222,21 @@
     "duration": "40 hours",
     "rating": 4.8,
     "level": "Advanced",
-    "description": "Prepare for AWS Solutions Architect certification.",
+    "description": "Design, deploy, and manage highly scalable, fault-tolerant cloud infrastructures using modern architecture principles. This project-based course covers multi-cloud strategies, container orchestration, microservices deployment, infrastructure as code, and cost-optimization techniques to prepare you for enterprise cloud engineering roles.",
     "image": "https://i.postimg.cc/Zq55tcd8/Cloud-Architecturewith-AWS.avif",
-    "category": "IT & Software"
+    "category": "IT & Software",
+    "curriculum": [
+      "Introduction to Cloud Paradigms: IaaS, PaaS, SaaS, and Multi-Cloud Architectures",
+      "Designing High-Availability Networks: Virtual Private Clouds (VPCs), Subnets, and Routing",
+      "Compute and Scaling Strategies: Virtual Machines, Auto-Scaling Groups, and Load Balancers",
+      "Cloud Storage Solutions: Object, Block, and File Storage Selection Frameworks",
+      "Serverless Computing Architectures: Building Event-Driven Apps with Cloud Functions",
+      "Infrastructure as Code (IaC): Automating Resource Provisioning using Terraform",
+      "Containerization and Orchestration: Packaging and Managing Apps with Docker and Kubernetes",
+      "Cloud Security Architecture: Identity Management, Encryption at Rest, and Transit Protection",
+      "Monitoring, Logging, and Observability: Setting up Prometheus, Grafana, and Cloud Metrics",
+      "Disaster Recovery and Business Continuity: Multi-Region Replication and Failover Strategies",
+      "The Well-Architected Framework: Optimizing Operational Excellence, Reliability, and Costs"
+    ]
   }
 ]
