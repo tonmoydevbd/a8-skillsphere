@@ -5,7 +5,7 @@ import CourseCard from "@/components/CourseCard";
 
 const AllCourses = async () => {
 
-  const res = await fetch('https://skillsphere-sooty.vercel.app/data.json')
+  const res = await fetch('https://a8-skillsphere.vercel.app/data.json')
   const allCourses = await res.json()
 
   return (

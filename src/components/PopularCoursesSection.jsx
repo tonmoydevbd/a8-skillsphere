@@ -2,7 +2,7 @@ import CourseCard from "./CourseCard";
 
 const PopularCoursesSecton = async () => {
 
-  const res = await fetch('https://skillsphere-sooty.vercel.app/data.json')
+  const res = await fetch('https://a8-skillsphere.vercel.app/data.json')
   const allCourses = await res.json()
 
   const sortedCourses = allCourses?.sort((a, b) => b.rating - a.rating);
