@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://i.postimg.cc/ZqsKTd89/Complete-Web-Development-Bootcamp.png",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Data Science & Machine Learning",
+    "instructor": "Dr. Sarah Chen",
+    "duration": "35 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Master complex algorithms and big data visualization techniques.",
+    "image": "https://i.postimg.cc/LsxFtFhd/Advanced-Data-Science-Machine-Learning.webp",
+    "category": "Data Science"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Masterclass",
+    "instructor": "Michael Ross",
+    "duration": "15 hours",
+    "rating": 4.6,
+    "level": "Intermediate",
+    "description": "Strategic approaches to SEO, SEM, and social media advertising.",
+    "image": "https://i.postimg.cc/HLvspyw8/Digital-Marketing-Masterclass.jpg",
+    "category": "Marketing"
+  },
+  {
+    "id": 4,
+    "title": "Graphic Design Theory and Practice",
+    "instructor": "Elena Rodriguez",
+    "duration": "12 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Core principles of design using industry-standard software.",
+    "image": "https://i.postimg.cc/W4Yb2kGM/Graphic-Design-Theoryand-Practice.webp",
+    "category": "Design"
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development with Flutter",
+    "instructor": "Alex Turner",
+    "duration": "25 hours",
+    "rating": 4.5,
+    "level": "Intermediate",
+    "description": "Build high-performance native apps for iOS and Android.",
+    "image": "https://i.postimg.cc/cJk4snR7/Mobile-App-Developmentwith-Flutter.jpg",
+    "category": "Development"
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Fundamentals",
+    "instructor": "James Miller",
+    "duration": "18 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Protect systems and networks from digital attacks.",
+    "image": "https://i.postimg.cc/8CzzQH6m/Cybersecurity-Fundamentals.jpg",
+    "category": "IT & Software"
+  },
+  {
+    "id": 7,
+    "title": "UX/UI Design Strategy",
+    "instructor": "Sophia Martinez",
+    "duration": "22 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Deep dive into user research and interactive prototyping.",
+    "image": "https://i.postimg.cc/cHK16LTq/UX-UIDesign-Strategy.jpg",
+    "category": "Design"
+  },
+  {
+    "id": 8,
+    "title": "Python for Financial Analysis",
+    "instructor": "David Wang",
+    "duration": "30 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Using Python for algorithmic trading and risk management.",
+    "image": "https://i.postimg.cc/KYjxs86k/Pythonfor-Financial-Analysis.png",
+    "category": "Finance"
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence Ethics",
+    "instructor": "Dr. Emily Watson",
+    "duration": "10 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Exploring the social and ethical impacts of AI systems.",
+    "image": "https://i.postimg.cc/SKxxFrMC/Artificial-Intelligence-Ethics.jpg",
+    "category": "Technology"
+  },
+  {
+    "id": 10,
+    "title": "Cloud Architecture with AWS",
+    "instructor": "Robert Smith",
+    "duration": "40 hours",
+    "rating": 4.8,
+    "level": "Advanced",
+    "description": "Prepare for AWS Solutions Architect certification.",
+    "image": "https://i.postimg.cc/Zq55tcd8/Cloud-Architecturewith-AWS.avif",
+    "category": "IT & Software"
+  }
+]
